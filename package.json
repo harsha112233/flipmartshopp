@@ -1,6 +1,7 @@
 {
-  "homepage": "https://harsha112233.github.io/flipmart",
+  
   "name": "flipmart",
+  "homepage": "https://harsha112233.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
